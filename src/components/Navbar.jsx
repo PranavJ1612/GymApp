@@ -22,7 +22,7 @@ const Navbar = () => (
         style={{ width: "48px", height: "48px", margin: "0px 20px" }}
       />
     </Link>
-    {/* <Stack
+    <Stack
       direction="row"
       gap="40px"
       fontFamily="Alegreya"
@@ -42,7 +42,7 @@ const Navbar = () => (
       <a href="#exercises" style={{ textDecoration: "none", color: "#3A1212" }}>
         Exercises
       </a>
-    </Stack> */}
+    </Stack>
   </Stack>
 );
 
