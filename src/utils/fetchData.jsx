@@ -1,4 +1,3 @@
-// 'f0021db587msh781fb1cbef39856p11c183jsn45521d5d1c85'
 
 export const exerciseOptions = {
   method: "GET",
